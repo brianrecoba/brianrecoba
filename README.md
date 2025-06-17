@@ -2,15 +2,12 @@
 ## 👋 Sobre mim
 Atuando como Analista de Suporte e Futuro desenvolvedor front-end.
 ### 🛠 Tecnologias
-![HTML](https://shields.io/badge/-HTML-000?style=flat&logo=html5)
-![JavaScript](https://shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![CSS](https://shields.io/badge/-CSS-000?style=flat&logo=css)
-![Flutter](https://shields.io/badge/-Flutter-000?style=flat&logo=flutter)
-![ReactJS](https://shields.io/badge/-ReactJs-000?style=flat&logo=react)
-![NodeJs](https://shields.io/badge/-Node.js-000?style=flat&logo=node.js)
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,flutter,&theme=dark" />
 
 
 ### 📫 Contatos
-![LinkedIn](https://www.linkedin.com/in/brian-recoba)
+<div align="left">
+  <a href="https://www.linkedin.com/in/brian-recoba/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
+</div>
 
 
